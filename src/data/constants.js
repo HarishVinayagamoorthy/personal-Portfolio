@@ -255,10 +255,10 @@ export const projects = [
   },
   {
     id: 1,
-    title: "QR-code-generator",
+    title: "CRM-MERN",
     date: "Oct 2022 - Present",
     description:
-      "This is a hackathon task: a website for generating customizable QR codes",
+      "This project implements a comprehensive CRM solution with role-based authentication, offering both Admin and User Dashboards for managing customer relationships, tickets, and tasks.",
     image:
       "https://drive.google.com/file/d/1yR968h3kh4oX_vUUu3ZjhdtE0F9Y7g1S/view?usp=sharing",
     tags: [
@@ -266,9 +266,55 @@ export const projects = [
       "CSS",
       "JavaScript",
       "BootStrap",
+      "React.js",
+      "MongoDB",
+      "Express.js",
+      "Node.js"
     ],
     category: "web app",
-    github: "https://github.com/Godson2611/QR-code-generator",
-    webapp: "https://qr-codes-generator-site.netlify.app/",
+    github: "https://github.com/HarishVinayagamoorthy/CRM-MERN",
+    webapp: "https://customer-relationship-management-mern.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "Daliy-Manager-APP",
+    date: "Oct 2022 - Present",
+    description:
+      "The Daily Manager is a MERN stack project designed for streamlined task management. Users can create, edit, and delete tasks, marking them as complete or pending. The app includes secure user authentication and a signup feature for personalized task tracking. Simplify your daily routine with Daily Manager App.",
+    image:
+      "https://drive.google.com/file/d/1yR968h3kh4oX_vUUu3ZjhdtE0F9Y7g1S/view?usp=sharing",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "React.js",
+      "MongoDB",
+      "Express.js",
+      "Node.js"
+    ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/Daliy-Manager-APP/tree/Frontend",
+    webapp: "https://daily-manager-app.netlify.app/",
+  },
+  {
+    id:3 ,
+    title: "Notes-App",
+    date: "Sep 2023 - Sep 2023",
+    description:
+      "This project is a testament to my skills in web development, showcasing the use of React, Axios, and the Context API to create a dynamic and responsive notes application.",
+    image:
+      "https://drive.google.com/file/d/1yWsLMLgRgKggBC4UuS-fvjXtKYw3k6vo/view?usp=sharing",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "React.js",
+
+    ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/Notes-App",
+    webapp: "https://main--spectacular-eclair-8a607e.netlify.app/notes",
   },
 ];
