@@ -242,7 +242,7 @@ export const projects = [
     description:
       "The Meal Finder website is a project developed during a hackathon. It's designed to help users easily find and learn how to cook various meals. Whether you're a beginner or an experienced chef, this website provides a wide range of recipes and cooking instructions.",
     image:
-      "https://drive.google.com/file/d/1yWsLMLgRgKggBC4UuS-fvjXtKYw3k6vo/view?usp=sharing",
+      "https://imgur.com/9GVuXkJ.png",
     tags: [
       "HTML",
       "CSS",
@@ -260,7 +260,7 @@ export const projects = [
     description:
       "This project implements a comprehensive CRM solution with role-based authentication, offering both Admin and User Dashboards for managing customer relationships, tickets, and tasks.",
     image:
-      "https://drive.google.com/file/d/1yR968h3kh4oX_vUUu3ZjhdtE0F9Y7g1S/view?usp=sharing",
+      "https://imgur.com/PUAIngo.png",
     tags: [
       "HTML",
       "CSS",
@@ -282,7 +282,7 @@ export const projects = [
     description:
       "The Daily Manager is a MERN stack project designed for streamlined task management. Users can create, edit, and delete tasks, marking them as complete or pending. The app includes secure user authentication and a signup feature for personalized task tracking. Simplify your daily routine with Daily Manager App.",
     image:
-      "https://drive.google.com/file/d/1yR968h3kh4oX_vUUu3ZjhdtE0F9Y7g1S/view?usp=sharing",
+      "https://imgur.com/iYNDGl4.png",
     tags: [
       "HTML",
       "CSS",
@@ -304,7 +304,7 @@ export const projects = [
     description:
       "This project is a testament to my skills in web development, showcasing the use of React, Axios, and the Context API to create a dynamic and responsive notes application.",
     image:
-      "https://drive.google.com/file/d/1yWsLMLgRgKggBC4UuS-fvjXtKYw3k6vo/view?usp=sharing",
+      "https://imgur.com/nVE893J.png",
     tags: [
       "HTML",
       "CSS",
@@ -324,7 +324,7 @@ export const projects = [
     description:
       "A MERN (MongoDB, Express.js, React.js, Node.js) stack project featuring secure user authentication with JWT tokens and a robust password reset mechanism using Nodemailer. The application ensures data integrity through hashed password storage and offers a dynamic React.js frontend for a seamless user experience.",
     image:
-      "https://drive.google.com/file/d/1yWsLMLgRgKggBC4UuS-fvjXtKYw3k6vo/view?usp=sharing",
+      "https://imgur.com/Nipqj1z.png",
       tags: [
         "HTML",
         "CSS",
