@@ -317,4 +317,26 @@ export const projects = [
     github: "https://github.com/HarishVinayagamoorthy/Notes-App",
     webapp: "https://main--spectacular-eclair-8a607e.netlify.app/notes",
   },
+  {
+    id:4 ,
+    title: "Password-Reset-MERN",
+    date: "Sep 2023 - Sep 2023",
+    description:
+      "A MERN (MongoDB, Express.js, React.js, Node.js) stack project featuring secure user authentication with JWT tokens and a robust password reset mechanism using Nodemailer. The application ensures data integrity through hashed password storage and offers a dynamic React.js frontend for a seamless user experience.",
+    image:
+      "https://drive.google.com/file/d/1yWsLMLgRgKggBC4UuS-fvjXtKYw3k6vo/view?usp=sharing",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "BootStrap",
+        "React.js",
+        "MongoDB",
+        "Express.js",
+        "Node.js"
+      ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/Password-Reset-MERN",
+    webapp: "https://forgotpassword-reset.netlify.app/",
+  },
 ];
