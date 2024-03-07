@@ -7,7 +7,7 @@ export const Bio = {
     "BE CSE graduate specializing in MERN stack with a track record of delivering high-quality projects on time. Skilled in MySQL, RESTful APIs, testing, debugging, and version control systems. Experienced in deploying on AWS, Netlify, and other similar platforms. Dedicated to ongoing professional development and staying current with the latest advancements in the tech industry.",
   github: "https://github.com/HarishVinayagamoorthy",
   resume:
-    "https://drive.google.com/file/d/1JZ9k64jewy7dndLHD3jMA8xw7rMNO91z/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1uq2tYFKX6BT1qwTAoKgGIXruRJBwNYb-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harish-v-05053b266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 };
 
@@ -338,5 +338,27 @@ export const projects = [
     category: "web app",
     github: "https://github.com/HarishVinayagamoorthy/Password-Reset-MERN",
     webapp: "https://forgotpassword-reset.netlify.app/",
+  },
+  {
+    id:4 ,
+    title: "Book-Store-APP",
+    date: "Sep 2023 - Sep 2023",
+    description:
+      "Welcome to the Book Store App, a modern and efficient web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application empowers users to seamlessly manage their book inventory through intuitive CRUD (Create, Read, Update, Delete) operations. Add, view, update, and delete books with ease,while the MongoDB database",
+    image:
+      "https://i.imgur.com/c3sOGNx.png",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "BootStrap",
+        "React.js",
+        "MongoDB",
+        "Express.js",
+        "Node.js"
+      ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/Book-Store-APP",
+    webapp: "https://books-store-mern-app.netlify.app/",
   },
 ];
