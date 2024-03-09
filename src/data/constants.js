@@ -2,7 +2,7 @@
 
 export const Bio = {
   name: "Harish V",
-  roles: ["MERN Stack Developer", "Programmer"],
+  roles: ["MERN Stack Developer", "Frontend Developer","Backend Developer"],
   description:
     "BE CSE graduate specializing in MERN stack with a track record of delivering high-quality projects on time. Skilled in MySQL, RESTful APIs, testing, debugging, and version control systems. Experienced in deploying on AWS, Netlify, and other similar platforms. Dedicated to ongoing professional development and staying current with the latest advancements in the tech industry.",
   github: "https://github.com/HarishVinayagamoorthy",
@@ -235,26 +235,9 @@ export const education = [
 ];
 
 export const projects = [
+ 
   {
     id: 0,
-    title: "Meal Finder Website",
-    date: "Sep 2023 - Sep 2023",
-    description:
-      "The Meal Finder website is a project developed during a hackathon. It's designed to help users easily find and learn how to cook various meals. Whether you're a beginner or an experienced chef, this website provides a wide range of recipes and cooking instructions.",
-    image:
-      "https://imgur.com/9GVuXkJ.png",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "BootStrap"
-    ],
-    category: "web app",
-    github: "https://github.com/HarishVinayagamoorthy/Hackathon-Meals-Finder-API-Project",
-    webapp: "https://main--merry-syrniki-9922dd.netlify.app/",
-  },
-  {
-    id: 1,
     title: "CRM-MERN",
     date: "Oct 2022 - Present",
     description:
@@ -276,7 +259,7 @@ export const projects = [
     webapp: "https://customer-relationship-management-mern.netlify.app/",
   },
   {
-    id: 2,
+    id: 1,
     title: "Daliy-Manager-APP",
     date: "Oct 2022 - Present",
     description:
@@ -297,28 +280,73 @@ export const projects = [
     github: "https://github.com/HarishVinayagamoorthy/Daliy-Manager-APP/tree/Frontend",
     webapp: "https://daily-manager-app.netlify.app/",
   },
+  
   {
-    id:3 ,
-    title: "Notes-App",
+    id:2 ,
+    title: "Book-Store-APP",
     date: "Sep 2023 - Sep 2023",
     description:
-      "This project is a testament to my skills in web development, showcasing the use of React, Axios, and the Context API to create a dynamic and responsive notes application.",
+      "Welcome to the Book Store App, a modern and efficient web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application empowers users to seamlessly manage their book inventory through intuitive CRUD (Create, Read, Update, Delete) operations. Add, view, update, and delete books with ease,while the MongoDB database",
     image:
-      "https://imgur.com/nVE893J.png",
+      "https://i.imgur.com/c3sOGNx.png",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "BootStrap",
+        "React.js",
+        "MongoDB",
+        "Express.js",
+        "Node.js"
+      ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/Book-Store-APP",
+    webapp: "https://books-store-mern-app.netlify.app/",
+  },
+  {
+    id:3,
+    title: " E-Commerce ",
+    date: "Sep 2023 - Sep 2023",
+    description:
+      "Our Mini E-Commerce Platform, built with the MERN (MongoDB, Express.js, React, Node.js) stack, offers a concise yet comprehensive shopping experience. Users can effortlessly browse a curated product list, delve into detailed product descriptions, and seamlessly manage their selections in the shopping cart.",
+    image:
+      "https://i.imgur.com/E2coPPD.png",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "BootStrap",
+        "React.js",
+        "MongoDB",
+        "Express.js",
+        "Node.js"
+      ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/online-Shopping",
+    webapp: "https://hs-shopping.netlify.app/",
+  },
+
+  
+  {
+    id: 4,
+    title: "Meal Finder Website",
+    date: "Sep 2023 - Sep 2023",
+    description:
+      "The Meal Finder website is a project developed during a hackathon. It's designed to help users easily find and learn how to cook various meals. Whether you're a beginner or an experienced chef, this website provides a wide range of recipes and cooking instructions.",
+    image:
+      "https://imgur.com/9GVuXkJ.png",
     tags: [
       "HTML",
       "CSS",
       "JavaScript",
-      "BootStrap",
-      "React.js",
-
+      "BootStrap"
     ],
     category: "web app",
-    github: "https://github.com/HarishVinayagamoorthy/Notes-App",
-    webapp: "https://main--spectacular-eclair-8a607e.netlify.app/notes",
+    github: "https://github.com/HarishVinayagamoorthy/Hackathon-Meals-Finder-API-Project",
+    webapp: "https://main--merry-syrniki-9922dd.netlify.app/",
   },
   {
-    id:4 ,
+    id:5 ,
     title: "Password-Reset-MERN",
     date: "Sep 2023 - Sep 2023",
     description:
@@ -339,26 +367,25 @@ export const projects = [
     github: "https://github.com/HarishVinayagamoorthy/Password-Reset-MERN",
     webapp: "https://forgotpassword-reset.netlify.app/",
   },
+  
   {
-    id:4 ,
-    title: "Book-Store-APP",
+    id:6 ,
+    title: "Notes-App",
     date: "Sep 2023 - Sep 2023",
     description:
-      "Welcome to the Book Store App, a modern and efficient web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application empowers users to seamlessly manage their book inventory through intuitive CRUD (Create, Read, Update, Delete) operations. Add, view, update, and delete books with ease,while the MongoDB database",
+      "This project is a testament to my skills in web development, showcasing the use of React, Axios, and the Context API to create a dynamic and responsive notes application.",
     image:
-      "https://i.imgur.com/c3sOGNx.png",
-      tags: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "BootStrap",
-        "React.js",
-        "MongoDB",
-        "Express.js",
-        "Node.js"
-      ],
+      "https://imgur.com/nVE893J.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "React.js",
+
+    ],
     category: "web app",
-    github: "https://github.com/HarishVinayagamoorthy/Book-Store-APP",
-    webapp: "https://books-store-mern-app.netlify.app/",
+    github: "https://github.com/HarishVinayagamoorthy/Notes-App",
+    webapp: "https://main--spectacular-eclair-8a607e.netlify.app/notes",
   },
 ];
