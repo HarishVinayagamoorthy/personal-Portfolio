@@ -260,6 +260,27 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Chat-App",
+    date: "Oct 2022 - Present",
+    description:"The MERN Stack Chat Application is a modern, real-time messaging platform built with the MongoDB, Express.js, React.js, and Node.js (MERN) stack. It features responsive design, ensuring seamless usage across various devices. With Socket.io integration, users can engage in real-time conversations, supported by user authentication for secure access.",
+    image:
+      "https://i.imgur.com/qINVHD7.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "React.js",
+      "MongoDB",
+      "Express.js",
+      "Node.js"
+    ],
+    category: "web app",
+    github: "https://github.com/HarishVinayagamoorthy/Chat-App",
+    webapp: "https://my-chat-app-mern.netlify.app/",
+  },
+  {
+    id: 2,
     title: "Daliy-Manager-APP",
     date: "Oct 2022 - Present",
     description:
@@ -282,7 +303,7 @@ export const projects = [
   },
   
   {
-    id:2 ,
+    id:3 ,
     title: "Book-Store-APP",
     date: "Sep 2023 - Sep 2023",
     description:
@@ -304,7 +325,7 @@ export const projects = [
     webapp: "https://books-store-mern-app.netlify.app/",
   },
   {
-    id:3,
+    id:4,
     title: " E-Commerce ",
     date: "Sep 2023 - Sep 2023",
     description:
@@ -328,7 +349,7 @@ export const projects = [
 
   
   {
-    id: 4,
+    id: 5,
     title: "Meal Finder Website",
     date: "Sep 2023 - Sep 2023",
     description:
@@ -346,7 +367,7 @@ export const projects = [
     webapp: "https://main--merry-syrniki-9922dd.netlify.app/",
   },
   {
-    id:5 ,
+    id:6 ,
     title: "Password-Reset-MERN",
     date: "Sep 2023 - Sep 2023",
     description:
@@ -369,7 +390,7 @@ export const projects = [
   },
   
   {
-    id:6 ,
+    id:7 ,
     title: "Notes-App",
     date: "Sep 2023 - Sep 2023",
     description:
