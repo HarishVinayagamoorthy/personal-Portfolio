@@ -7,7 +7,7 @@ export const Bio = {
     "BE CSE graduate specializing in MERN stack with a track record of delivering high-quality projects on time. Skilled in MySQL, RESTful APIs, testing, debugging, and version control systems. Experienced in deploying on AWS, Netlify, and other similar platforms. Dedicated to ongoing professional development and staying current with the latest advancements in the tech industry.",
   github: "https://github.com/HarishVinayagamoorthy",
   resume:
-    "https://drive.google.com/file/d/12GRN8T6i2IuhRReXOpKnx1kDQx6eQCAh/view?usp=sharing",
+    "https://drive.google.com/file/d/1FuUt6vtzqpUnG6hJLc7YqEKQzUFn5NCn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/harish-v-05053b266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 };
 
@@ -226,7 +226,7 @@ export const experiences = [
     img:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAdCAMAAAD8QJ61AAAAP1BMVEX9hUb8dyn+mV5HcEzXvq39di/6ZACsrKyWlpaioqL6aAj8dyz6h038dSn8dCf7axSjo6OhoaGrq6v7dC77dC1DW++rAAAAFXRSTlNbjDEAIZz/WP+b/7BKvMf9tdSDm5vNU/TbAAAAi0lEQVR4AX3MRxaEMBDEUI/bJme4/1UnQZGF1v/Judc//892hTkXk11xB9LsVy4ggaBYREkguELiFhRm1SJqAuYlCKyiIWC+lQCwPioCejCw0DKQYJBKEOg6CQKZBAIJT0DCGEgwyPonIAHAegkAOwFgLwBYJwFgE2G4AgkFQELAxXEcp2i7hnwr/QD1fRYYKYIAHwAAAABJRU5ErkJggg==",
     role: "Full Stack Developer Intern",
     company: "Naduvan Technology",
-    date: "June 2024 - September 2024",
+    // date: "June 2024 - September 2024",
     desc: "Worked on multiple live projects, developing frontend components and integrating GraphQL APIs using React.js and TypeScript. Gained experience in mobile app development with React Native.",
     skills: [
       "React.js",
@@ -242,7 +242,7 @@ export const experiences = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAXVBMVEX///+d0f9nvP+q1//q9f+m1v+SzP7///1/xf+53v/t9//W6//a7f93wv9PtP9Vtv+Dxv+HyP/R6f/g8P/F4/9uv/+f0v/2+/+03P++4P+Lyv9fuf/0+v9pvf/L5v/qsAv5AAABQElEQVR4AazPRYLEIBAF0B8gHhxSNJC+/y3HBcZW83Cn0BkYx+/EOM3LuuEn+3FIpc0mtbLb4dADXxZtPdYlwEW9mBO9CIqfg21m6J1WJry7yTyiVyaPTz5mdG6a0NqVQMtM6LGEBtexohNL8wKxeeVouWnOR3PbMQW0vPRRNEM9oZeZQ8PmP/+HoOuf8YHF5gANxaJ3+XzHuyHdDTqVzWkAQAeeRE8MPa6lXvZacqTAylV2fOONUnwelJ4qfratjLNA+J24bfhnVEHvl762RC+zbziHfo9GvczyEbhbvEnJBDhpazUTw0LhlpI73SSyyBgPrEUDRaSTj1VB0crXHOGWuAmG7JCGlKHhpjNAQ+FpPV5wjL2tc45yH+117CUrLHLhKSXr8s6o2MuBCLTBb8BGGyDoCQRVbKCN6HGEvA8Aw74TjXFYSuMAAAAASUVORK5CYII=",
     role: "Full Stack Developer",
     company: "Kodukku Classified Private Limited",
-    date: "October 2024 - January 2025",
+    // date: "October 2024 - January 2025",
     desc: "Developed and maintained the Kodukku product, handling both frontend and backend development. Designed scalable React.js components and built RESTful APIs using Node.js and Express.js.",
     skills: [
       "React.js",
@@ -260,7 +260,7 @@ export const experiences = [
     img: "https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw",
     role: "Zen Class Full Stack Developer Program",
     company: "GUVI - IIT-Madras and IIM-Ahmedabad incubated Ed-tech company",
-    date: "July 2023 - September 2023",
+    // date: "July 2023 - September 2023",
     desc: "Completed an extensive MERN stack development program covering front-end and back-end technologies, version control, and software development best practices.",
     skills: [
       "HTML5",
